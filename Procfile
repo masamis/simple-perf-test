@@ -1,1 +1,1 @@
-web: node --max-old-space-size=8192 index.js
+web: vendor/bin/heroku-php-nginx web/
