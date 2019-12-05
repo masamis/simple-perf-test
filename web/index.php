@@ -1,4 +1,4 @@
 <?
-	echo "php 7.3";
+	echo "OK";
 ?>
 
